@@ -1,0 +1,4 @@
+venv
+.idea
+data/.~lock.reviews_sample.csv#
+.ipynb_checkpoints

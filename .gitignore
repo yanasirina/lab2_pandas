@@ -2,3 +2,4 @@ venv
 .idea
 data/.~lock.reviews_sample.csv#
 .ipynb_checkpoints
+.~lock.result2.xlsx#
